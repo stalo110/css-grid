@@ -91,11 +91,14 @@ margin: 10px 0px;
     margin-left: 0px;
     width: 327px;
  }
+ .row{
+    width: 300px;
+ }
+ .column {
+    padding-left: 10px;
+ }
+
 }
-
-  .column > img{
-
-  }
 
   .column > h3{
 color: #512051;
